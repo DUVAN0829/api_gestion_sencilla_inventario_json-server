@@ -1,0 +1,669 @@
+{
+  "productos": [
+    {
+      "nombre": "Dolex Acetaminofen",
+      "marca": "Genfar",
+      "precio": 26390,
+      "cantidadVendida": 170,
+      "stock": 190,
+      "descripcion": "Acetaminofen Forte Alivio del dolor fuerte rapido absorción",
+      "fechaVencimiento": "2023-12-31",
+      "categoria": "Pastillas",
+      "id": "0043"
+    },
+    {
+      "nombre": "Mieltertos",
+      "marca": "Pfizer",
+      "precio": 43000,
+      "cantidadVendida": 75,
+      "stock": 23,
+      "descripcion": "Jarabe para la tos con sabor a Mentol",
+      "fechaVencimiento": "2024-06-15",
+      "categoria": "Jarabe",
+      "id": "7b6f"
+    },
+    {
+      "nombre": "Manzanilla Sophia",
+      "marca": "AstraZeneca",
+      "precio": 22000,
+      "cantidadVendida": 30,
+      "stock": 10,
+      "descripcion": "Solución para la limpieza de ojos",
+      "fechaVencimiento": "2024-03-15",
+      "categoria": "Gotas",
+      "id": "5b28"
+    },
+    {
+      "nombre": "Ibuprofeno Farma",
+      "marca": "Bayer",
+      "precio": 18000,
+      "cantidadVendida": 120,
+      "stock": 60,
+      "descripcion": "Antiinflamatorio y analgésico de acción rápida",
+      "fechaVencimiento": "2025-01-01",
+      "categoria": "Pastilla",
+      "id": "1607"
+    },
+    {
+      "nombre": "Jarabe Toscal",
+      "marca": "Sanofi",
+      "precio": 25000,
+      "cantidadVendida": 60,
+      "stock": 40,
+      "descripcion": "Jarabe para aliviar la tos seca y productiva",
+      "fechaVencimiento": "2024-07-20",
+      "categoria": "Jarabe",
+      "id": "26ef"
+    },
+    {
+      "nombre": "Antiflu Max",
+      "marca": "Merck",
+      "precio": 35000,
+      "cantidadVendida": 90,
+      "stock": 45,
+      "descripcion": "Alivio completo de los síntomas de la gripe",
+      "fechaVencimiento": "2024-10-30",
+      "categoria": "Pastilla",
+      "id": "0c48"
+    },
+    {
+      "nombre": "Gotas Ocularis",
+      "marca": "Alcon",
+      "precio": 15000,
+      "cantidadVendida": 150,
+      "stock": 75,
+      "descripcion": "Alivio de ojos secos y sensación de irritación",
+      "fechaVencimiento": "2025-02-15",
+      "categoria": "Gotas",
+      "id": "1375"
+    },
+    {
+      "nombre": "Paracetamol 500mg",
+      "marca": "Novartis",
+      "precio": 10000,
+      "cantidadVendida": 200,
+      "stock": 120,
+      "descripcion": "Alivio de dolores leves y fiebre",
+      "fechaVencimiento": "2025-03-30",
+      "categoria": "Pastilla",
+      "id": "d0e8"
+    },
+    {
+      "nombre": "Dextrometorfano",
+      "marca": "Teva",
+      "precio": 28000,
+      "cantidadVendida": 40,
+      "stock": 20,
+      "descripcion": "Jarabe para la tos seca",
+      "fechaVencimiento": "2024-11-15",
+      "categoria": "Jarabe",
+      "id": "cb93"
+    },
+    {
+      "nombre": "Ciproflaxacina 500mg",
+      "marca": "Cipla",
+      "precio": 45000,
+      "cantidadVendida": 80,
+      "stock": 50,
+      "descripcion": "Antibiótico de amplio espectro",
+      "fechaVencimiento": "2025-04-20",
+      "categoria": "Pastilla",
+      "id": "d299"
+    },
+    {
+      "nombre": "Probioticos Flora",
+      "marca": "Laboratorios Vita",
+      "precio": 18000,
+      "cantidadVendida": 110,
+      "stock": 70,
+      "descripcion": "Probióticos para el equilibrio intestinal",
+      "fechaVencimiento": "2024-09-25",
+      "categoria": "Capsulas",
+      "id": "6608"
+    },
+    {
+      "nombre": "Benzocaína Oral",
+      "marca": "Fresenius",
+      "precio": 22000,
+      "cantidadVendida": 55,
+      "stock": 30,
+      "descripcion": "Analgésico para dolores bucales y dentales",
+      "fechaVencimiento": "2024-12-31",
+      "categoria": "Gel",
+      "id": "fd66"
+    },
+    {
+      "nombre": "Aspirina Cardio",
+      "marca": "Bayer",
+      "precio": 27000,
+      "cantidadVendida": 60,
+      "stock": 40,
+      "descripcion": "Prevención de enfermedades cardíacas y trombosis",
+      "fechaVencimiento": "2025-01-10",
+      "categoria": "Pastilla",
+      "id": "355f"
+    },
+    {
+      "nombre": "Sinutab 500mg",
+      "marca": "Sanofi",
+      "precio": 23000,
+      "cantidadVendida": 90,
+      "stock": 80,
+      "descripcion": "Alivio de congestión nasal y dolor de cabeza",
+      "fechaVencimiento": "2024-11-01",
+      "categoria": "Pastilla",
+      "id": "3446"
+    },
+    {
+      "nombre": "Fluimucil 600mg",
+      "marca": "Zambon",
+      "precio": 29000,
+      "cantidadVendida": 120,
+      "stock": 50,
+      "descripcion": "Mucolítico para la descongestión respiratoria",
+      "fechaVencimiento": "2025-06-20",
+      "categoria": "Pastilla",
+      "id": "14a9"
+    },
+    {
+      "nombre": "Vitamina C 1000mg",
+      "marca": "Solgar",
+      "precio": 35000,
+      "cantidadVendida": 150,
+      "stock": 100,
+      "descripcion": "Suplemento para el sistema inmune",
+      "fechaVencimiento": "2025-12-31",
+      "categoria": "Capsulas",
+      "id": "9318"
+    },
+    {
+      "nombre": "Ambroxol Jarabe",
+      "marca": "Laboratorios ABC",
+      "precio": 15000,
+      "cantidadVendida": 50,
+      "stock": 30,
+      "descripcion": "Expectorante para la tos productiva",
+      "fechaVencimiento": "2024-10-15",
+      "categoria": "Jarabe",
+      "id": "5b94"
+    },
+    {
+      "nombre": "Ranitidina 150mg",
+      "marca": "Teva",
+      "precio": 20000,
+      "cantidadVendida": 110,
+      "stock": 60,
+      "descripcion": "Antiacido y tratamiento para úlceras gástricas",
+      "fechaVencimiento": "2024-11-25",
+      "categoria": "Pastilla",
+      "id": "d5bb"
+    },
+    {
+      "nombre": "Zinc Forte",
+      "marca": "Labiofarma",
+      "precio": 18000,
+      "cantidadVendida": 70,
+      "stock": 50,
+      "descripcion": "Suplemento para fortalecer el sistema inmunológico",
+      "fechaVencimiento": "2025-03-01",
+      "categoria": "Capsulas",
+      "id": "5978"
+    },
+    {
+      "nombre": "Almax 300mg",
+      "marca": "Almirall",
+      "precio": 22000,
+      "cantidadVendida": 80,
+      "stock": 40,
+      "descripcion": "Tratamiento para el reflujo gástrico y acidez estomacal",
+      "fechaVencimiento": "2025-05-10",
+      "categoria": "Pastilla",
+      "id": "4809"
+    },
+    {
+      "nombre": "Tópico Dermol",
+      "marca": "Pfizer",
+      "precio": 25000,
+      "cantidadVendida": 50,
+      "stock": 25,
+      "descripcion": "Crema para aliviar irritaciones cutáneas",
+      "fechaVencimiento": "2024-08-20",
+      "categoria": "Crema",
+      "id": "7780"
+    },
+    {
+      "nombre": "Atorvastatina 20mg",
+      "marca": "Sandoz",
+      "precio": 33000,
+      "cantidadVendida": 40,
+      "stock": 20,
+      "descripcion": "Medicamento para reducir colesterol",
+      "fechaVencimiento": "2025-04-10",
+      "categoria": "Pastilla",
+      "id": "a064"
+    },
+    {
+      "nombre": "Loratadina 10mg",
+      "marca": "Zyrtec",
+      "precio": 18000,
+      "cantidadVendida": 150,
+      "stock": 100,
+      "descripcion": "Antihistamínico para alergias estacionales",
+      "fechaVencimiento": "2025-02-28",
+      "categoria": "Pastilla",
+      "id": "d711"
+    },
+    {
+      "nombre": "Omeprazol 20mg",
+      "marca": "AstraZeneca",
+      "precio": 24000,
+      "cantidadVendida": 70,
+      "stock": 60,
+      "descripcion": "Antiacido para el tratamiento de úlceras y acidez",
+      "fechaVencimiento": "2025-07-10",
+      "categoria": "Pastilla",
+      "id": "4c79"
+    },
+    {
+      "nombre": "Cremor Relax",
+      "marca": "Bayer",
+      "precio": 15000,
+      "cantidadVendida": 130,
+      "stock": 80,
+      "descripcion": "Crema relajante para dolores musculares",
+      "fechaVencimiento": "2025-05-20",
+      "categoria": "Crema",
+      "id": "1aa1"
+    },
+    {
+      "nombre": "Clorfenamina 4mg",
+      "marca": "GlaxoSmithKline",
+      "precio": 14000,
+      "cantidadVendida": 160,
+      "stock": 110,
+      "descripcion": "Antihistamínico para aliviar alergias y rinitis",
+      "fechaVencimiento": "2025-09-05",
+      "categoria": "Pastilla",
+      "id": "6d39"
+    },
+    {
+      "nombre": "Fluconazol 150mg",
+      "marca": "Pfizer",
+      "precio": 32000,
+      "cantidadVendida": 90,
+      "stock": 45,
+      "descripcion": "Antimicótico para infecciones fúngicas",
+      "fechaVencimiento": "2024-12-10",
+      "categoria": "Pastilla",
+      "id": "167e"
+    },
+    {
+      "nombre": "Aloe Vera Gel",
+      "marca": "AloeLab",
+      "precio": 15000,
+      "cantidadVendida": 60,
+      "stock": 30,
+      "descripcion": "Gel hidratante y calmante para la piel",
+      "fechaVencimiento": "2024-06-30",
+      "categoria": "Gel",
+      "id": "727b"
+    },
+    {
+      "nombre": "Cetirizina 10mg",
+      "marca": "Zyrtec",
+      "precio": 17000,
+      "cantidadVendida": 100,
+      "stock": 60,
+      "descripcion": "Antialérgico para picazón y estornudos",
+      "fechaVencimiento": "2025-01-15",
+      "categoria": "Pastilla",
+      "id": "b0a5"
+    },
+    {
+      "nombre": "Omeprazol 40mg",
+      "marca": "Roche",
+      "precio": 27000,
+      "cantidadVendida": 50,
+      "stock": 30,
+      "descripcion": "Medicamento para el tratamiento de úlceras gástricas",
+      "fechaVencimiento": "2025-03-25",
+      "categoria": "Pastilla",
+      "id": "fced"
+    },
+    {
+      "nombre": "Aspirina Infantil",
+      "marca": "Bayer",
+      "precio": 19000,
+      "cantidadVendida": 70,
+      "stock": 50,
+      "descripcion": "Alivio de fiebre y dolor en niños",
+      "fechaVencimiento": "2025-06-01",
+      "categoria": "Pastilla",
+      "id": "49ae"
+    },
+    {
+      "nombre": "Almax 300mg",
+      "marca": "Almirall",
+      "precio": 23000,
+      "cantidadVendida": 90,
+      "stock": 60,
+      "descripcion": "Tratamiento para la acidez estomacal y reflujo",
+      "fechaVencimiento": "2025-09-15",
+      "categoria": "Pastilla",
+      "id": "d898"
+    },
+    {
+      "id": "085a",
+      "nombre": "Almax 900mg",
+      "marca": "Almirall",
+      "precio": 35000,
+      "cantidadVendida": 76,
+      "stock": 20,
+      "descripcion": "Tratamiento para la acidez estomacal y reflujo",
+      "fechaVencimiento": "2025-09-21",
+      "categoria": "Pastilla"
+    },
+    {
+      "id": "c5bc",
+      "nombre": "nada",
+      "marca": "nada",
+      "precio": 80000,
+      "cantidadVendida": 90,
+      "stock": 120,
+      "descripcion": "nada de nada",
+      "fechaVencimiento": "2027-03-12",
+      "categoria": "nada"
+    },
+    {
+      "id": "db41",
+      "nombre": "Jabon",
+      "marca": "Rey",
+      "precio": 1450,
+      "cantidadVendida": 0,
+      "stock": 50,
+      "descripcion": "Jabón de ropa",
+      "fechaVencimiento": "2029-04-13",
+      "categoria": "Hogar"
+    },
+    {
+      "id": "2a64",
+      "nombre": "nada",
+      "marca": "nada",
+      "precio": 1200,
+      "cantidadVendida": 12,
+      "stock": 12,
+      "descripcion": "bartat",
+      "fechaVencimiento": "2030-02-12",
+      "categoria": "nada"
+    }
+  ],
+  "registro": [
+    {
+      "id": "9dd7",
+      "fecha": "2024-11-21",
+      "hora": "13:58",
+      "motivo": "Se modificó el producto Dolex Acetaminofen => Cambios: stock: \"50\" → \"60\""
+    },
+    {
+      "id": "d965",
+      "fecha": "2024-11-21",
+      "hora": "13:58",
+      "motivo": "Se modificó el producto Mieltertos => Cambios: precio: \"33000\" → \"43000\""
+    },
+    {
+      "id": "98e0",
+      "fecha": "2024-11-21",
+      "hora": "14:41",
+      "motivo": "Se modificó el producto Mieltertos => Cambios: stock: \"32\" → \"39\""
+    },
+    {
+      "id": "cea2",
+      "fecha": "2024-11-21",
+      "hora": "14:43",
+      "motivo": "Se modificó el producto Mieltertos => Cambios: stock: \"39\" → \"34\""
+    },
+    {
+      "id": "56ce",
+      "fecha": "2024-11-21",
+      "hora": "14:45",
+      "motivo": "Se modificó el producto Mieltertos => Cambios: stock: \"34\" → \"23\""
+    },
+    {
+      "id": "e19e",
+      "fecha": "2024-11-21",
+      "hora": "15:07",
+      "motivo": "se creó el producto Jabon"
+    },
+    {
+      "id": "c132",
+      "fecha": "2024-11-21",
+      "hora": "16:40",
+      "motivo": "Se modificó el producto Dolex Acetaminofen => Cambios: precio: \"26350\" → \"26390\""
+    },
+    {
+      "id": "dbcb",
+      "fecha": "2024-11-23",
+      "hora": "06:59",
+      "motivo": "Se modificó el producto Dolex Acetaminofen => Cambios: stock: \"60\" → \"90\""
+    },
+    {
+      "id": "eb8b",
+      "fecha": "2024-11-23",
+      "hora": "09:10",
+      "motivo": "Se modificó el producto Dolex Acetaminofen => Cambios: stock: \"90\" → \"190\""
+    },
+    {
+      "id": "44dc",
+      "fecha": "2024-12-04",
+      "hora": "14:42",
+      "motivo": "Se modificó el producto Dolex Acetaminofen => Cambios: stock: \"190\" → \"200\""
+    },
+    {
+      "id": "98fa",
+      "fecha": "2024-12-04",
+      "hora": "14:42",
+      "motivo": "Se modificó el producto Dolex Acetaminofen => Cambios: stock: \"200\" → \"150\""
+    },
+    {
+      "id": "5375",
+      "fecha": "2024-12-05",
+      "hora": "20:55",
+      "motivo": "Se modificó el producto Dolex Acetaminofen => Cambios: stock: \"150\" → \"160\""
+    },
+    {
+      "id": "caff",
+      "fecha": "2024-12-05",
+      "hora": "20:56",
+      "motivo": "Se modificó el producto Dolex Acetaminofen => Cambios: stock: \"160\" → \"190\""
+    }
+  ],
+  "productos_anio_actual": {
+    "enero": {
+      "total_vendido": 1200,
+      "ingresos": 45900,
+      "margen_beneficio": 45
+    },
+    "febrero": {
+      "total_vendido": 1100,
+      "ingresos": 42100,
+      "margen_beneficio": 40
+    },
+    "marzo": {
+      "total_vendido": 1300,
+      "ingresos": 50000,
+      "margen_beneficio": 48
+    },
+    "abril": {
+      "total_vendido": 1250,
+      "ingresos": 47000,
+      "margen_beneficio": 46
+    },
+    "mayo": {
+      "total_vendido": 1400,
+      "ingresos": 52000,
+      "margen_beneficio": 50
+    },
+    "junio": {
+      "total_vendido": 1350,
+      "ingresos": 51000,
+      "margen_beneficio": 47
+    },
+    "julio": {
+      "total_vendido": 1200,
+      "ingresos": 46000,
+      "margen_beneficio": 44
+    },
+    "agosto": {
+      "total_vendido": 1250,
+      "ingresos": 47500,
+      "margen_beneficio": 45
+    },
+    "septiembre": {
+      "total_vendido": 1300,
+      "ingresos": 49500,
+      "margen_beneficio": 48
+    },
+    "octubre": {
+      "total_vendido": 1400,
+      "ingresos": 52000,
+      "margen_beneficio": 50
+    },
+    "noviembre": {
+      "total_vendido": 1450,
+      "ingresos": 54000,
+      "margen_beneficio": 52
+    },
+    "diciembre": {
+      "total_vendido": 1500,
+      "ingresos": 56000,
+      "margen_beneficio": 55
+    }
+  },
+  "productos_anio_pasado": {
+    "enero": {
+      "total_vendido": 1100,
+      "ingresos": 42000,
+      "margen_beneficio": 40
+    },
+    "febrero": {
+      "total_vendido": 1050,
+      "ingresos": 40000,
+      "margen_beneficio": 38
+    },
+    "marzo": {
+      "total_vendido": 1200,
+      "ingresos": 45000,
+      "margen_beneficio": 42
+    },
+    "abril": {
+      "total_vendido": 1150,
+      "ingresos": 44000,
+      "margen_beneficio": 41
+    },
+    "mayo": {
+      "total_vendido": 1250,
+      "ingresos": 47000,
+      "margen_beneficio": 45
+    },
+    "junio": {
+      "total_vendido": 1200,
+      "ingresos": 45000,
+      "margen_beneficio": 42
+    },
+    "julio": {
+      "total_vendido": 1150,
+      "ingresos": 43000,
+      "margen_beneficio": 41
+    },
+    "agosto": {
+      "total_vendido": 1200,
+      "ingresos": 45000,
+      "margen_beneficio": 42
+    },
+    "septiembre": {
+      "total_vendido": 1250,
+      "ingresos": 47000,
+      "margen_beneficio": 45
+    },
+    "octubre": {
+      "total_vendido": 1300,
+      "ingresos": 49000,
+      "margen_beneficio": 47
+    },
+    "noviembre": {
+      "total_vendido": 1350,
+      "ingresos": 51000,
+      "margen_beneficio": 50
+    },
+    "diciembre": {
+      "total_vendido": 1400,
+      "ingresos": 53000,
+      "margen_beneficio": 52
+    }
+  },
+  "tendencias": [
+    {
+      "nombre": "Paracetamol 500mg",
+      "marca": "Novartis",
+      "ventasAnuales": 3600,
+      "ventasPorMes": {
+        "enero": 300,
+        "febrero": 280,
+        "marzo": 310,
+        "abril": 290,
+        "mayo": 300,
+        "junio": 310,
+        "julio": 320,
+        "agosto": 300,
+        "septiembre": 280,
+        "octubre": 310,
+        "noviembre": 290,
+        "diciembre": 310
+      },
+      "id": "73b7"
+    },
+    {
+      "nombre": "Gotas Ocularis",
+      "marca": "Alcon",
+      "ventasAnuales": 2400,
+      "ventasPorMes": {
+        "enero": 200,
+        "febrero": 190,
+        "marzo": 210,
+        "abril": 200,
+        "mayo": 190,
+        "junio": 210,
+        "julio": 220,
+        "agosto": 200,
+        "septiembre": 190,
+        "octubre": 210,
+        "noviembre": 200,
+        "diciembre": 210
+      },
+      "id": "59af"
+    },
+    {
+      "nombre": "Vitamina C 1000mg",
+      "marca": "Solgar",
+      "ventasAnuales": 3600,
+      "ventasPorMes": {
+        "enero": 300,
+        "febrero": 310,
+        "marzo": 320,
+        "abril": 310,
+        "mayo": 320,
+        "junio": 300,
+        "julio": 310,
+        "agosto": 320,
+        "septiembre": 310,
+        "octubre": 320,
+        "noviembre": 300,
+        "diciembre": 320
+      },
+      "id": "416c"
+    }
+  ],
+  "stock": {
+    "total_stock": 1518
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "api-json-server",
+  "version": "0.0.1",
+  "description": "Api Con Json-Server Gestión Sencilla de Inventario",
+  "main": "db.json",
+  "scripts": {
+    "start" : "json-server db.json"
+  },
+  "author": "Duván Castillo",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
